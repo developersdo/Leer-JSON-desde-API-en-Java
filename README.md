@@ -5,14 +5,11 @@ Leyendo un api con retorno Json y parseando con Java
 
 **Librerías usadas:** 
 
-jettison (1.1)
-- org.codehaus.jettison
-
-stapler (1.155)
+json-lib (2.1-rev6)
 - org.kohsuke.stapler
 
-jersey-client (1.13)
-- com.sun.jersey
+jersey-client (1.8)
+- jersey-bundle
 
 ```java
 public static void main(String []args) {
